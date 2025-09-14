@@ -5,12 +5,20 @@ const { JSDOM } = require('jsdom');
 
 const pages = [
   'index.html',
-  'About-Brightemy.html',
   'Courses.html',
+  'Partners.html',
+  'About-Brightemy.html',
   'Blog.html',
   'Contact.html',
-  'Partners.html',
-  'Sponsor.html'
+  'Sponsor.html',
+  'Web-Development-Course.html',
+  'Cyber-Security-&-Online-Saftey-Course.html',
+  'Microsoft-Office-365-Course.html',
+  'Graphic-Design-Course.html',
+  'Digital-Marketing-Course.html',
+  'Video-Editing-Course.html',
+  'Privacy-Policy.html',
+  'Terms-&-Conditions.html'
 ];
 
 const output = [];
@@ -46,3 +54,4 @@ pages.forEach(page => {
 
 fs.writeFileSync('search-index.json', JSON.stringify(output, null, 2));
 console.log('✅ search-index.json generated successfully');
+
