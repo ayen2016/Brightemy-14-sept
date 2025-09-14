@@ -30,6 +30,8 @@ const pages = [
   'Digital-Marketing-Course.html',
   'Video-Editing-Course.html',
   'Privacy-Policy.html',
+  'Partner-Voktis-Group',
+  'Partner-Sixteen-Foundation',
   'Terms-&-Conditions.html'
 ];
 
@@ -214,3 +216,4 @@ document.addEventListener('DOMContentLoaded', async () => {
     highlightText(searchTerm);
   }
 });
+
