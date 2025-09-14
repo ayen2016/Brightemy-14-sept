@@ -18,6 +18,8 @@ const pages = [
   'Digital-Marketing-Course.html',
   'Video-Editing-Course.html',
   'Privacy-Policy.html',
+  'Partner-Voktis-Group',
+  'Partner-Sixteen-Foundation',
   'Terms-&-Conditions.html'
 ];
 
@@ -54,4 +56,5 @@ pages.forEach(page => {
 
 fs.writeFileSync('search-index.json', JSON.stringify(output, null, 2));
 console.log('✅ search-index.json generated successfully');
+
 
