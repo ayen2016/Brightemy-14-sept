@@ -4,7 +4,7 @@
   box-sizing: border-box;
   font-family: "Arimo", sans-serif;
   font-optical-sizing: auto;
-  align-items: center;
+/*   align-items: center; */
 }
 
 /* <!-- Topbar start --> */
@@ -1289,3 +1289,4 @@
 
 
 /* footer stop */
+
