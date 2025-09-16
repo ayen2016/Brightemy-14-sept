@@ -1612,8 +1612,8 @@ body {
     margin-bottom: 15px;
   } */
 
-  .newsletter-form {
-    /* flex-direction: column; */
+/*   .newsletter-form { 
+   flex-direction: column; */
 /*     align-items: stretch;
     gap: 8px;
   }
@@ -2153,4 +2153,5 @@ body {
 
 
 /* footer stop */
+
 
