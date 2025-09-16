@@ -557,6 +557,8 @@
   font-size: 18px;
   color: #333;
   max-width: 1200px;
+  line-height: 1.5;
+  
 }
 
 /* ---------- Values Section ---------- */
@@ -1080,6 +1082,7 @@
 
 
 /* footer start */
+
 .ft {
   background: #EBEBEB;
   color: #000;
@@ -1282,5 +1285,7 @@
     width: 100%;
   }
 }
+
+
 
 /* footer stop */
