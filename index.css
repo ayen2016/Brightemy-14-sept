@@ -990,6 +990,8 @@ body {
 
 /* comprehensive onboarding process start */
 /* Comprehensive Onboarding Process */
+
+
 .comprehensive_onboarding_process {
   display: flex;
   flex-direction: row;
@@ -1314,6 +1316,7 @@ body {
 /* <!-- Internship section Start --> */
 /* Internship Section */
 /* Base container */
+
 .internship {
   width: 100%;
   padding: 60px 20px;
@@ -1544,87 +1547,6 @@ body {
 
 
 /* newsletter start */
-
-/* 
-.newsletter-section {
-  max-width: 500px;
-  margin: 40px auto;
-  padding: 30px 20px;
-  background: #EFD800;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-  text-align: center;
-  font-family: "Inter", sans-serif;
-}
-
-.newsletter-text h3 {
-  font-size: 18px;
-  margin-bottom: 20px;
-  color: #222;
-}
-
-.newsletter-form {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.newsletter-form input[type="email"] {
-  padding: 12px 15px;
-  flex: 1 1 250px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  font-size: 1rem;
-  outline: none;
-  transition: border-color 0.3s;
-}
-
-.newsletter-form input[type="email"]:focus {
-  border-color: #000000;
-}
-
-.newsletter-form button {
-  padding: 12px 20px;
-  border: none;
-  background: #000000;
-  color: #fff;
-  font-size: 1rem;
-  font-weight: 600;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background 0.3s;
-} */
-
-/* .newsletter-form button:hover {
-  background: #005bb5;
-} */
-
-/* ==== Responsive ==== */
-/* @media (max-width: 600px) {
-  .newsletter-section {
-    max-width: 90%;
-    padding: 20px 15px;
-  }
-
-  .newsletter-text h3 {
-    font-size: 1.2rem;
-    margin-bottom: 15px;
-  } */
-
-/*   .newsletter-form { 
-   flex-direction: column; */
-/*     align-items: stretch;
-    gap: 8px;
-  }
-
-  .newsletter-form input[type="email"],
-  .newsletter-form button {
-    width: 100%;
-    font-size: 0.9rem;
-    padding: 10px 12px;
-  }
-} */
 
 
 /* newsletter stop  */
@@ -2153,5 +2075,6 @@ body {
 
 
 /* footer stop */
+
 
 
