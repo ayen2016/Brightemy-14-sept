@@ -655,7 +655,7 @@
 .blog-title, h4 {
   font-size: 18px;
   color: #111;
-  margin: 10px 0;
+/*   margin: 10px 0; */
   line-height: 1.4;
 }
 
@@ -961,3 +961,4 @@
 
 
 /* footer stop */
+
