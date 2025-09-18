@@ -8,7 +8,7 @@
 
 
 
-  /* navbar to humberger styling */
+/* navbar to humberger styling */
 
 .navbar {
   display: flex;
@@ -217,6 +217,7 @@
     max-height: 50vh;
   }
 }
+
 /* <!-- Navbar to hamburger stop--> */
 
 
@@ -296,14 +297,14 @@
 
 /* Post */
 .post-title {
-  font-size: 36px;
+ font-size: 50px;
   margin-bottom: 15px;
   text-align: center;
 }
 
 .post-meta {
   text-align: center;
-  font-size: 14px;
+  font-size: 15px;
   color: #555;
   margin-bottom: 30px;
 }
@@ -321,12 +322,12 @@
 
 /* Content */
 .post-content p {
-  margin-bottom: 20px;
-  font-size: 18px;
+  margin-bottom: 16px;
+  font-size: 16px;
 }
 
 .post-content h3 {
-  font-size: 26px;
+  font-size: 20px;
   margin-top: 35px;
   margin-bottom: 20px;
 }
@@ -407,7 +408,6 @@
 /* <!-- Scroll to top button start--> */
 
 /* footer start */
-
 
 .ft {
   background: #EBEBEB;
@@ -611,5 +611,6 @@
     width: 100%;
   }
 }
+
 
 /* footer stop */
