@@ -379,13 +379,14 @@ body {
 .story-content h2 {
   font-size: 32px;
   margin-bottom: 15px;
-  color: #222;
+  color: #000000;
 }
 
 .story-content p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
+  color: #000000;
 }
 
 .sponsor-box {
@@ -662,3 +663,4 @@ body {
 
 
 /* footer stop */
+
