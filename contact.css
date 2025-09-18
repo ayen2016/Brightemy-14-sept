@@ -503,7 +503,7 @@
 }
 
 .office h4 {
-  font-size: 20px;
+  font-size: 18px;
   color: #000;
   margin-bottom: 10px;
   font-weight: 600;
@@ -512,8 +512,8 @@
 }
 
 .office p {
-  font-size: 15px;
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 1.5;
   color: #333;
 }
 
@@ -890,3 +890,4 @@
 
 
 /* footer stop */
+
