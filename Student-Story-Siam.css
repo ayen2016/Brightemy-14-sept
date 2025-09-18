@@ -348,7 +348,7 @@ body {
   margin: 0;
   padding: 0;
   background: #f9f9f9;
-  color: #333;
+  color: #000000;
 }
 
 .story-container {
@@ -663,4 +663,5 @@ body {
 
 
 /* footer stop */
+
 
