@@ -304,7 +304,7 @@
 
 
 
-* Large tablets & small laptops */
+/* Large tablets & small laptops */
 @media (max-width: 1024px) {
   .post-title {
     font-size: 40px;
@@ -645,4 +645,5 @@
 
 
 /* footer stop */
+
 
