@@ -394,7 +394,7 @@
         }
 
         .hero-text h1 {
-            font-size: 3.5rem;
+            font-size: 50px;
             font-weight: 700;
             color: #000000;
             margin-bottom: 20px;
@@ -402,7 +402,7 @@
         }
 
         .hero-text p {
-            font-size: 1.3rem;
+            font-size: 24px;
             color: #000000;
             line-height: 1.6;
             margin-bottom: 30px;
@@ -543,25 +543,27 @@
 
 .who_we_are h2 {
   font-size: 32px;
-  color: #000;
+  color: #000000;
   max-width: 1200px;
 }
 
 .who_we_are h3 {
   font-size: 20px;
-  color: #444;
+  color: #000000;
   max-width: 1200px;
 }
 
 .who_we_are p {
   font-size: 18px;
-  color: #333;
+  color: #000000;
   max-width: 1200px;
   line-height: 1.5;
   
 }
 
 /* ---------- Values Section ---------- */
+
+
 .about_page_values_section {
   width: 100%;
   background-color: #F7F8F9;
@@ -605,8 +607,8 @@
 
 .about_values_section_right_container p {
   font-size: 18px;
-  color: #333;
-  line-height: 1.7;
+  color: #000000;
+  line-height: 1.5;
   border-left: 4px solid #efd800;
   padding-left: 1rem;
   /* background-color: #fefefe; */
@@ -669,7 +671,7 @@
 
 .team-subtitle_managers {
   font-size: 18px;
-  color: #666;
+  color: #000000;
   margin-bottom: 50px;
 }
 
@@ -741,7 +743,7 @@
    Member Description
    ========================== */
 .member-description_managers {
-  font-size: 18px;
+  font-size: 16px;
   color: #ffffff;
   margin-bottom: 20px;
 }
@@ -877,7 +879,7 @@
 
 .team-subtitle {
   font-size: 18px;
-  color: #666;
+  color: #000000;
   margin-bottom: 50px;
 }
 
@@ -949,7 +951,7 @@
    Member Description
    ========================== */
 .member-description {
-  font-size: 18px;
+  font-size: 16px;
   color: #555;
   margin-bottom: 20px;
 }
@@ -1289,4 +1291,5 @@
 
 
 /* footer stop */
+
 
