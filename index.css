@@ -803,6 +803,12 @@ body {
   
 }
 
+.course-card, p{
+
+  font-size: 16px;
+  
+}
+
 /* cursor pointer on hover */
 .course-card a img {
   cursor: pointer;
@@ -2081,6 +2087,7 @@ body {
 
 
 /* footer stop */
+
 
 
 
