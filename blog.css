@@ -311,7 +311,7 @@
         }
 
         .hero-text h1 {
-            font-size: 3.5rem;
+            font-size: 50px;
             font-weight: 700;
             color: #000000;
             margin-bottom: 20px;
@@ -319,7 +319,7 @@
         }
 
         .hero-text p {
-            font-size: 1.3rem;
+            font-size: 24px;
             color: #000000;
             line-height: 1.6;
             margin-bottom: 30px;
@@ -648,11 +648,11 @@
 }
 
 .blog-meta {
-  font-size: 13px;
+  font-size: 15px;
   color: #555;
 }
 
-.blog-title h4 {
+.blog-title, h4 {
   font-size: 18px;
   color: #111;
   margin: 10px 0;
@@ -660,7 +660,7 @@
 }
 
 .blog-date {
-  font-size: 14px;
+  font-size: 15px;
   color: #888;
 }
 
@@ -957,6 +957,7 @@
     width: 100%;
   }
 }
+
 
 
 /* footer stop */
