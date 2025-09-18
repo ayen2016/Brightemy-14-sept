@@ -603,6 +603,7 @@
 .about_values_section_right_container h2 {
   font-size: 32px;
   color: #000;
+  margin-bottom: 10px;
 }
 
 .about_values_section_right_container p {
@@ -1291,5 +1292,6 @@
 
 
 /* footer stop */
+
 
 
