@@ -317,7 +317,7 @@
         }
 
         .hero-text h1 {
-            font-size: 3.5rem;
+            font-size: 50px;
             font-weight: 700;
             color: #000000;
             margin-bottom: 20px;
@@ -325,7 +325,7 @@
         }
 
         .hero-text p {
-            font-size: 1.3rem;
+            font-size: 24px;
             color: #000000;
             line-height: 1.6;
             margin-bottom: 30px;
@@ -485,8 +485,8 @@
   max-width: 600px;
   padding-left: 24px;
   font-size: 1.15rem;
-  /* line-height: 1.75; */
-  color: #3b3b3b;
+  line-height: 1.5; 
+  color: #000000;
 }
 
 .introduction_right_container h2 {
@@ -583,6 +583,7 @@ padding-top: 60px;
 
   font-size: 18px;
   max-width: 1200px;
+  line-height: 1.5;
 
 }
 
@@ -729,7 +730,7 @@ padding-top: 60px;
 .comment-content p {
   /* font-style: italic; */
   font-size: 18px;
-  color: #333;
+  color: #000000;
   margin-bottom: 0.75rem;
   line-height: 1.5;
 }
@@ -742,7 +743,7 @@ padding-top: 60px;
 }
 
 .comment-content span {
-  font-size: 0.9rem;
+  font-size: 15px;
   color: #777;
 }
 
@@ -812,7 +813,7 @@ padding-top: 60px;
 
 .contact-info h4 {
     margin: 0;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -1109,5 +1110,6 @@ padding-top: 60px;
     width: 100%;
   }
 }
+
 
 /* footer stop */
