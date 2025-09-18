@@ -377,13 +377,14 @@ body {
 }
 
 .story-content h2 {
-  font-size: 28px;
+  font-size: 32px;
   margin-bottom: 15px;
   color: #222;
 }
 
 .story-content p {
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 1.5;
   margin-bottom: 20px;
 }
 
@@ -397,7 +398,7 @@ body {
 
 .sponsor-box h3 {
   margin-top: 0;
-  font-size: 22px;
+  font-size: 20px;
   color: #000000;
 }
 
@@ -658,5 +659,6 @@ body {
     width: 100%;
   }
 }
+
 
 /* footer stop */
