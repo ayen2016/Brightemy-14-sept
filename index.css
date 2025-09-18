@@ -677,7 +677,7 @@ body {
 
 .partners-heading {
   text-align: center;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: bold;
   margin-bottom: 30px;
 }
@@ -795,6 +795,12 @@ body {
 .course-card.show {
   opacity: 1;
   transform: translateX(0);
+}
+
+.course-card, h3{
+
+  font-size: 20px;
+  
 }
 
 /* cursor pointer on hover */
@@ -1235,7 +1241,7 @@ body {
 .sponsor-text p {
   color: #444;
   line-height: 1.6;
-  font-size: 1rem;
+  font-size: 18px;
 }
 
 .sponsor-button {
@@ -1677,7 +1683,7 @@ body {
 }
 
 .author-info h4 {
-  font-size: 1.1rem;
+  font-size: 18px;
   font-weight: 600;
   color: #000;
   margin: 0 0 5px;
@@ -1685,7 +1691,7 @@ body {
 
 .author-info span {
   color: #555;
-  font-size: 0.9rem;
+  font-size: 15px;
 }
 
 @media (max-width: 768px) {
@@ -1767,7 +1773,7 @@ body {
 }
 
 .blog-meta {
-  font-size: 13px;
+  font-size: 15px;
   color: #555;
 }
 
@@ -1779,7 +1785,7 @@ body {
 }
 
 .blog-date {
-  font-size: 14px;
+  font-size: 15px;
   color: #888;
 }
 
@@ -2075,6 +2081,7 @@ body {
 
 
 /* footer stop */
+
 
 
 
