@@ -289,7 +289,10 @@
 
 /* Container */
 .privacy-policy-container {
-  max-width: 100%;
+  
+  /*   max-width: 100%; */
+  width:100%;
+  max-width:1200px;
   margin: 40px auto;
   padding: 30px;
   background: #ffffff;
@@ -608,3 +611,4 @@
 
 
 /* footer stop */
+
